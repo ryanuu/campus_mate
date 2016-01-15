@@ -15,4 +15,9 @@ public class MateMainActivity extends AppCompatActivity {
     protected void onStop() {
         super.onStop();
     }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+    }
 }
