@@ -20,4 +20,5 @@ public class MateMainActivity extends AppCompatActivity {
     protected void onPause() {
         super.onPause();
     }
+
 }
